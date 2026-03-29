@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774694173259,
+      "tag": "0000_steep_machine_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774694378166,
+      "tag": "0001_groovy_tomas",
+      "breakpoints": true
+    }
+  ]
+}
